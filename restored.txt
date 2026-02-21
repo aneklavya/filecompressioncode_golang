@@ -1,0 +1,16 @@
+NOTE: This is a test file for LZW compression. This is a test file for LZW compression.
+NOTE: This is a test file for LZW compression. This is a test file for LZW compression.
+
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+
+Kathmandu Kathmandu Kathmandu Kathmandu Kathmandu Kathmandu Kathmandu Kathmandu Kathmandu Kathmandu
+compression compression compression compression compression compression compression compression compression
+
+PATTERN-ABC-123 PATTERN-ABC-123 PATTERN-ABC-123 PATTERN-ABC-123 PATTERN-ABC-123
+PATTERN-ABC-123 PATTERN-ABC-123 PATTERN-ABC-123 PATTERN-ABC-123 PATTERN-ABC-123
+
+This is a test file for LZW compression. This is a test file for LZW compression.
+This is a test file for LZW compression. This is a test file for LZW compression.
